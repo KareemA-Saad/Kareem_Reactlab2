@@ -1,0 +1,23 @@
+[
+    {
+        "photo": "/assets/images/user1.png",
+        "username": "Kareem Ahmed",
+        "email": "kareem@gmail.com",
+        "phone": "01273929393",
+        "verified": "false"
+    },
+    {
+        "photo": "/assets/images/user2.png",
+        "username": "Kareem Saad",
+        "email": "kareemahmedsaad1999@gmail.com",
+        "phone": "01124779924",
+        "verified": "true"
+    },
+    {
+        "photo": "/assets/images/user3.jpg",
+        "username": "Kareem ElSayed",
+        "email": "karimkimo327@gmail.com",
+        "phone": "123-456-7890",
+        "verified": "true"
+    }
+]
