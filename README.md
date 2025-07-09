@@ -8,7 +8,6 @@ A simple React application built with Vite v7 that displays a list of users with
 - Search users by email address
 - Email validation
 - Responsive design using Bootstrap
-- TypeScript for type safety
 
 ## React Concepts Applied
 
@@ -39,18 +38,13 @@ A simple React application built with Vite v7 that displays a list of users with
 - **useEffect**: Side effects (initializing filtered users)
 - **Custom Logic**: Implementing search and validation logic
 
-### 6. **TypeScript Integration**
-- **Interfaces**: Defining User type for type safety
-- **Props Interfaces**: Type-safe component props
-- **Type Annotations**: Explicit typing for variables and functions
-
-### 7. **Modern React Patterns**
+### 6. **Modern React Patterns**
 - **Functional Components**: Using hooks instead of class components
 - **Arrow Functions**: Modern JavaScript syntax
 - **Destructuring**: Extracting props and state values
 - **Spread Operator**: Creating new arrays and objects
 
-### 8. **Component Communication**
+### 7. **Component Communication**
 - **Props Down**: Passing data from Parent to child components
 - **Events Up**: Child components calling parent functions through props
 - **Callback Functions**: Parent passing functions to children for communication
@@ -78,8 +72,7 @@ src/
 3. **State Management**: Using hooks to manage component state
 4. **Event Handling**: Responding to user interactions
 5. **Conditional Rendering**: Showing different content based on conditions
-6. **TypeScript**: Adding type safety to React components
-7. **Modern JavaScript**: Using ES6+ features like arrow functions and destructuring
+6. **Modern JavaScript**: Using ES6+ features like arrow functions and destructuring
 
 ## Getting Started
 
